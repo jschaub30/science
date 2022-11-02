@@ -29,7 +29,7 @@ What are 2 main factors that determine the growth of an organism? (genetic and e
 
 What make up the hereditary material inside an organism’s cells.  (Genes)
 
-An organism’s ___ is all the things the organism is exposed to as it lives and grows. (environment)
+An organism’s ---- is all the things the organism is exposed to as it lives and grows. (environment)
 
 
 ## Unit: Matter and energy in organisms
@@ -66,24 +66,24 @@ What do organisms need in order to survive and thrive within an ecosystem? (reso
 
 Examples of resources are: (food, shelter, oxygen, space)
 
-A ___ resource is one that is not available in endless supply. (limited)
+A ---- resource is one that is not available in endless supply. (limited)
 
 What's the name for interactions when organisms compete for the same set of resources. (Competitive)
 
-___ interactions happen when one organism hunts and eats another organism.  (Predatory)
+---- interactions happen when one organism hunts and eats another organism.  (Predatory)
 
 What's the name for interactions where two organisms of different species benefit from interacting with each other. (Mutualistic)
 
 ## Unit: Matter and energy in ecosystems
-The vast majority of energy in an ecosystem comes from ___? (the sun).
+The vast majority of energy in an ecosystem comes from ----? (the sun).
 
-In a food web diagram, ___ have only arrows going away from them (producers).
+In a food web diagram, ---- have only arrows going away from them (producers).
 
-In a food web diagram, ___ have only arrows going toward them (decomposers).
+In a food web diagram, ---- have only arrows going toward them (decomposers).
 
-In a food web diagram, ___ have  arrows going both away from and toward them (consumers)
+In a food web diagram, ---- have  arrows going both away from and toward them (consumers)
 
-Energy that enters an ecosystem eventually leaves as ___ (heat)
+Energy that enters an ecosystem eventually leaves as ---- (heat)
 
 What are organisms that make their own food inside their cells? (producers)
 
@@ -91,26 +91,26 @@ What are organisms that eat other organisms? (consumers)
 
 What are organisms that consume dead plant and animal matter? (decomposers)
 
-An organism that only eats producers is called a ___ (primary consumer).
+An organism that only eats producers is called a ---- (primary consumer).
 
-___ is the variety of species in an ecosystem. (Biodiversity)
+---- is the variety of species in an ecosystem. (Biodiversity)
 
-___ ecosystem services are the resources that people extract from ecosystems. These include foods and drinking water. (Provisioning)
+---- ecosystem services are the resources that people extract from ecosystems. These include foods and drinking water. (Provisioning)
 
-___ ecosystem services are all the processes that keep ecosystems healthy. These include fungi decomposing waste and tree roots preventing erosion. (Regulating)
+---- ecosystem services are all the processes that keep ecosystems healthy. These include fungi decomposing waste and tree roots preventing erosion. (Regulating)
 
-___ ecosystem services are the foundational processes that underlie all life on Earth. These include photosynthesis and the water cycle. (Supporting)
+---- ecosystem services are the foundational processes that underlie all life on Earth. These include photosynthesis and the water cycle. (Supporting)
 
-___ ecosystem services are the ways that ecosystems benefit people’s lives and traditions. For example, many people have a religious or cultural connection to an ecosystem. Ecosystems also provide inspiration, fun, and a sense of well-being. (Cultural)
+---- ecosystem services are the ways that ecosystems benefit people’s lives and traditions. For example, many people have a religious or cultural connection to an ecosystem. Ecosystems also provide inspiration, fun, and a sense of well-being. (Cultural)
 
 ## Unit: Inheritance and variation
 What is an observable characteristic of an organism? (trait)
 
 Traits are passed from parent to offspring through what? (genes)
 
-Genes are part of cell structures called ___  (chromosomes)
+Genes are part of cell structures called ----  (chromosomes)
 
-Each chromosome consists of 1 long molecule of ___. (DNA)
+Each chromosome consists of 1 long molecule of ----. (DNA)
 
 What does DNA stand for?
 
@@ -124,7 +124,7 @@ What is an image of an organism's genes, arranged into homologous pairs? (karyot
 
 ### Genes, proteins, and traits
 
-DNA molecules are made up of smaller parts called ___ (nucleotides)
+DNA molecules are made up of smaller parts called ---- (nucleotides)
 
 Using the cooking analogy:
 - chromosomes --> cookbooks
@@ -142,22 +142,34 @@ Name the 4 nucleotides
 
 What is the name of molecules that carry out many different functions in cells, such as providing structure helping carry out chemical reactions? (protein)
 
-Proteins are made up of smaller parts called ___. (amino acids)
+Proteins are made up of smaller parts called ----. (amino acids)
 
-The order of nucleotides in a gene determines the order of ___ in the resulting protein. (amino acids)
+The order of nucleotides in a gene determines the order of ---- in the resulting protein. (amino acids)
 
 ### Mutations
-A ___ is any change to the nucleotide sequence of a DNA molecule. (mutation)
+A ---- is any change to the nucleotide sequence of a DNA molecule. (mutation)
 
 Are all mutations bad? (No, they can be harmful, beneficial, or neutral)
 
 ### Inheritance and variation
-Humans have two sets of chromosomes in each cell, making humans ___ organisms. (diploid)
+Humans have two sets of chromosomes in each cell, making humans ---- organisms. (diploid)
 
-Diploid organisms produce either egg or sperm cells, which are known as ___. (gametes)
+Diploid organisms produce either egg or sperm cells, which are known as ----. (gametes)
 
-___ is the fusion of gametes from two parents. (Fertilization). Fertilization leads to new, diploid offspring.
+---- is the fusion of gametes from two parents. (Fertilization). Fertilization leads to new, diploid offspring.
 
 When a parent forms a gamete, only one chromosome from each homologous pair is included at random. So, an offspring might inherit a different combination of chromosomes (and alleles) compared to its siblings.
 
 ![Genetic variation image](img/genetic-variation.png)
+
+### Genetics vocabulary and Punnett squares
+
+An organism's observable traits are affected by its ---- (genes)
+
+An organism's combination of genes is called its ---- (genotype)
+
+A ---- genotype has two of the same alleles. (homozygous)
+A ---- genotype has two different alleles. (heterozygous)
+
+A ---- is an observable version of a trait. (phenotype)
+
