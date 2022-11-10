@@ -173,3 +173,44 @@ A ---- genotype has two different alleles. (heterozygous)
 
 A ---- is an observable version of a trait. (phenotype)
 
+### Evolution
+
+#### Evolution and common ancestry
+Define evolution. (Evolution is the change in inherited traits that occurs in a group of organisms over multiple generations.)
+
+What are inherited traits? (Inherited traits are those that are passed from parents to offspring via genes).
+
+Evolution is made possible by ---- (genetic variation).
+
+What is the most common source of genetic variation? (sexual reproduction)
+
+For a modern species, what is the name of the series of ancestral species stretching back through time? (evolutionary lineage)
+
+Define "common ancestor". (A common ancestor is an ancestral group of organisms that is shared by multiple lineages.)
+
+#### Fossils
+
+What is a fossil? (A fossil is the preserved evidence of an organism that lived in the distant past.)
+
+In what type of rock are fossils usually found? (sedimentary)
+
+How do we estimate the age of fossils? (layer analysis and radiometric dating)
+
+[First 4 minutes of this video](https://www.youtube.com/watch?v=EJYiz6vITPE) discusses Cambrian explosion.
+
+How old is the oldest known fossil? (3.7 Billion YA)
+
+What is the fossil record? (The fossil record is made up of all the fossils that have been found, along with their relative ages.)
+
+What is the name of an event where a large number of species die off at the same time, as seen in the fossil record? (mass extinction)
+
+#### Anatomy
+
+What are homologous features? (Shared features resulting from common ancestry)
+
+What are analogous features? (Similar features that evolved independently along different evolutionary lineages)
+
+#### Embryology
+What are embryos? (Embryos are unborn or unhatched organisms early in the course of development.)
+
+What are vertebrates? (animals with backbones)
