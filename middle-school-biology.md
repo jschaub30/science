@@ -173,9 +173,9 @@ A ---- genotype has two different alleles. (heterozygous)
 
 A ---- is an observable version of a trait. (phenotype)
 
-### Evolution
+## Unit: Evolution
 
-#### Evolution and common ancestry
+### Evolution and common ancestry
 Define evolution. (Evolution is the change in inherited traits that occurs in a group of organisms over multiple generations.)
 
 What are inherited traits? (Inherited traits are those that are passed from parents to offspring via genes).
@@ -188,7 +188,7 @@ For a modern species, what is the name of the series of ancestral species stretc
 
 Define "common ancestor". (A common ancestor is an ancestral group of organisms that is shared by multiple lineages.)
 
-#### Fossils
+### Fossils
 
 What is a fossil? (A fossil is the preserved evidence of an organism that lived in the distant past.)
 
@@ -204,13 +204,23 @@ What is the fossil record? (The fossil record is made up of all the fossils that
 
 What is the name of an event where a large number of species die off at the same time, as seen in the fossil record? (mass extinction)
 
-#### Anatomy
+### Anatomy
 
 What are homologous features? (Shared features resulting from common ancestry)
 
 What are analogous features? (Similar features that evolved independently along different evolutionary lineages)
 
-#### Embryology
+### Embryology
 What are embryos? (Embryos are unborn or unhatched organisms early in the course of development.)
 
 What are vertebrates? (animals with backbones)
+
+## Unit: Natural and artificial selection
+
+### Natural selection
+What is natural selection? (Organisms with advantageous traits are likely to have more offspring. These offspring inherit their parents’ advantageous traits. As a result, the advantageous traits become more common in the population over multiple generations. This process is called natural selection.)
+
+### Artificial selection
+The types of organisms that result from artificial selection are considered ----. (domesticated)
+
+What is the key difference between artificial and natural selection? (Humans choose which individuals reproduce.)
